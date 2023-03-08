@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="Github.png" width="100%" title="Intro Card" alt="Intro Card">
-</p>
+</p> -->
 
 ### Hi there 👋
 - 🌱 I want currently learning <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width="2%"/>
